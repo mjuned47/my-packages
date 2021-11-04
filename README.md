@@ -1,4 +1,4 @@
-# Termux-packages
+# my-packages
 
 This packages can be install in your termux for arm64 device
 
